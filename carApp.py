@@ -43,5 +43,10 @@ st.markdown(
     - Use a neural net to [analyze the Udacity Self-driving Car Image
         Dataset](https://github.com/streamlit/demo-self-driving)
     - Explore a [New York City rideshare dataset](https://github.com/streamlit/demo-uber-nyc-pickups)
+
+    References:
+    - LTA. (2023, Janurary). Annual Motor Vehicle Population by Vehicle Quota Categories. Land Transport Data Mall. Retrieved July, 2023, from https://datamall.lta.gov.sg/content/datamall/en/static-data.html
+    - LTA. (2023, June). COE Bidding Results. Land Transport Data Mall. Retrieved June, 2023, from https://datamall.lta.gov.sg/content/datamall/en/static-data.html
+
 """
 )
